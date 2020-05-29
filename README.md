@@ -1,2 +1,2 @@
 # flask_app
-this is my first flask app and learn about some basic of git command.
+This is my first FLASK app and learn about some basic of GIT command.
